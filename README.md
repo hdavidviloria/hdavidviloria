@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h2 align="center">A passionate sophomore student who always likes to learn something new! Here are a few things to know about me!</h3>
 
+<br>
 
 ### 🔭 One thing to know about me is that I LOVE efficiency.
 
@@ -12,7 +13,7 @@ Below, you see some very simple projects here which I created, that helped me ac
 
 Excited to share it with you here!
 
-
+<br>
 
 ### 🌱 One thing I'm absolutely interested and continually in is GenAI, and its tremendous possible applications! 
 
