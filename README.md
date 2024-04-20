@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate sophomore student who always likes to learn something new!</h3>
 
-- 🌱 I’m currently learning about **GenAI** and its limitless possible applications! 
+
+### 🔭 One thing to know about me is that I LOVE efficiency.
+
+I absolutely HATE repetitive work. That's why I'm absolutely passionate about automation — and try to incorporate it as much as possible into my daily workflows!
+
+Every time I have a task, or a workflow which I need to do, I think to myself "What's one way I can make this more efficient? How can I automate this"
+
+Below, you see some projects that are a cause of that dream. I use automation in tons of workflows and whenever I can, especially with spreadsheets as part of my experience as my school's Pupil Council Treasurer. Excited to share it with you here!
+
+
+- 🌱 One thing I'm absolutely interested and continually in is GenAI, and its tremendous possible applications! I do believe it has the opportunity to shape our work tremendously, and automate it like we've never seen before.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hans-david-viloria-8a975a261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
