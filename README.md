@@ -2,16 +2,18 @@
 <h3 align="center">A passionate sophomore student who always likes to learn something new!</h3>
 
 
-### 🔭 One thing to know about me is that I LOVE efficiency.
+### One thing to know about me is that I LOVE efficiency.
 
 I absolutely HATE repetitive work. That's why I'm absolutely passionate about automation — and try to incorporate it as much as possible into my daily workflows!
 
-Every time I have a task, or a workflow which I need to do, I think to myself "What's one way I can make this more efficient? How can I automate this"
+Every time I have a task, or a workflow which I need to do, I think to myself "What's one way I can make this more efficient? How can I automate this?"
 
-Below, you see some projects that are a cause of that dream. I use automation in tons of workflows and whenever I can, especially with spreadsheets as part of my experience as my school's Pupil Council Treasurer. Excited to share it with you here!
+Below, you see some very simple projects here which I created, that helped me achieve that. For example, as part of my role as my school's Pupil Council Treasurer, I deal a lot with spreadsheets, and so I've created several systems to help automate financial tracking. Another repository I created is an automated spelling bee quizzer, which took the role of helping to test me for a Spelling Bee. 
+
+Excited to share it with you here!
 
 
-- 🌱 One thing I'm absolutely interested and continually in is GenAI, and its tremendous possible applications! I do believe it has the opportunity to shape our work tremendously, and automate it like we've never seen before.
+### 🌱 One thing I'm absolutely interested and continually in is GenAI, and its tremendous possible applications! I do believe it has the opportunity to shape our work tremendously, and automate it like we've never seen before.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
