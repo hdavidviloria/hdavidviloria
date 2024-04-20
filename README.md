@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h2 align="center">A passionate sophomore student who always likes to learn something new!</h3>
+<h2 align="center">A passionate sophomore student who always likes to learn something new! Here are a few things to know about me!</h3>
 
 
 ### 🔭 One thing to know about me is that I LOVE efficiency.
@@ -11,6 +11,7 @@
 Below, you see some very simple projects here which I created, that helped me achieve that. For example, as part of my role as my school's Pupil Council Treasurer, I deal a lot with spreadsheets, and so I've created several systems to help automate financial tracking. Another repository I created is an automated spelling bee quizzer, which took the role of helping to test me for a Spelling Bee. 
 
 Excited to share it with you here!
+
 
 
 ### 🌱 One thing I'm absolutely interested and continually in is GenAI, and its tremendous possible applications! 
