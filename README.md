@@ -13,7 +13,10 @@ Below, you see some very simple projects here which I created, that helped me ac
 Excited to share it with you here!
 
 
-### 🌱 One thing I'm absolutely interested and continually in is GenAI, and its tremendous possible applications! I do believe it has the opportunity to shape our work tremendously, and automate it like we've never seen before.
+### 🌱 One thing I'm absolutely interested and continually in is GenAI, and its tremendous possible applications! 
+
+I really do believe it has the opportunity to shape our work tremendously, and automate it like we've never seen before. A project that I've been really excited watching is Daniel Miessler's <a href="https://github.com/danielmiessler/fabric">Fabric repository.</a> It really changed my workflow and the way I viewed Large Language Models.
+
 
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
