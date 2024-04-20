@@ -23,7 +23,7 @@ I really do believe it has the opportunity to shape our work tremendously, and a
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<h4 align="left">Connect with me:</h3>
+<h4 align="left">Let's connect on LinkedIn!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hans-david-viloria-8a975a261/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" /></a>
 </p>
