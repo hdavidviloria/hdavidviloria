@@ -1,6 +1,6 @@
 <div align="center">
 
-# David Viloria
+# Hans David Viloria
 
 ### I'm primarily a business person who likes building.
 
@@ -8,16 +8,13 @@ Business · Efficiency · Technology
 
 <br>
 
-<a href="https://hdavidviloria.com">
-  <img src="https://img.shields.io/badge/Website-hdavidviloria.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/hans-david-viloria-8a975a261/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### Portfolio and writing at [**hdavidviloria.com**](https://hdavidviloria.com)
 
-<br><br>
+### Let's connect on [**LinkedIn**](https://www.linkedin.com/in/hans-david-viloria-8a975a261/)
 
-BBA (International Business & Global Management) at  
+<br>
+
+BBA (International Business & Global Management) at
 **The University of Hong Kong**
 
 </div>
@@ -59,7 +56,7 @@ I'm the founder of **The Blaze Office**, where I'm building products around prob
 
 <ul>
 <li>Stay in flow mode, enable fast shortcut keys, build your highlighting system.</li>
-<li>Printer intelligence; guided double-sided printing and large poster enlargements.</li>
+<li>Printer intelligence: guided double-sided printing and large poster enlargements.</li>
 </ul>
 
 <p><strong>AI and Cloud</strong></p>
@@ -75,9 +72,9 @@ I'm the founder of **The Blaze Office**, where I'm building products around prob
 
 <p><strong>The new way to create marketing collaterals; think ChatGPT for design.</strong></p>
 
-<p>Existing AI design tools give you "AI slop." Although often detailed, these images have a clear distinctive AI-look and a flat uneditable output.</p>
+<p>Existing AI design tools give you "AI slop." Although often detailed, these images have a clear distinctive AI look and a flat, uneditable output.</p>
 
-<p>Renard takes a completely different approach; creating editable design layers that you can edit in your native design tool (Canva, Photoshop) without the generic AI-generated feel.</p>
+<p>Renard takes a completely different approach: creating editable design layers that you can edit in your native design tool (Canva, Photoshop) without the generic AI-generated feel.</p>
 
 <p><a href="https://renard.design/"><strong>renard.design →</strong></a></p>
 
@@ -91,7 +88,9 @@ I'm the founder of **The Blaze Office**, where I'm building products around prob
 
 ### Computer Vision: Skyrise Realty
 
-Parking visibility was poor, but installing dedicated counting hardware across multiple properties would have been expensive. I had very little prior machine-learning experience, so I taught myself enough computer vision to build a camera-based vehicle-counting system using the CCTV infrastructure already in place.
+Parking visibility was poor, but installing dedicated counting hardware across multiple properties would have been expensive. Instead, I built and deployed a camera-based vehicle-counting proof of concept using the CCTV infrastructure already in place.
+
+The project was less about developing a new machine-learning model and more about making existing computer-vision technology work in a real environment. That meant thinking through camera feeds, available compute and GPU constraints, deployment practicality, and how the resulting data could actually support a business decision.
 
 The result was a working proof of concept across four sites that avoided roughly **₱400,000 in hardware capex** and exposed discrepancies significant enough to justify further investigation.
 
@@ -133,13 +132,8 @@ Studying **BBA (International Business & Global Management)** at **The Universit
 
 <div align="center">
 
-### More about me
+### Portfolio and writing at [**hdavidviloria.com**](https://hdavidviloria.com)
 
-<a href="https://hdavidviloria.com">
-  <img src="https://img.shields.io/badge/Explore_my_work-hdavidviloria.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/hans-david-viloria-8a975a261/">
-  <img src="https://img.shields.io/badge/Connect_with_me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### Let's connect on [**LinkedIn**](https://www.linkedin.com/in/hans-david-viloria-8a975a261/)
 
 </div>
